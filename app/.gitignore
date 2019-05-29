@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+/app/build
+/trueTime/build
+/recordingview/build
+/frescoimageviewer/build
+.externalNativeBuild
+src/main/java/com/bs/kotha/application/contact/view/activity/
+src/main/java/com/bs/kotha/application/discover/viewmodel/
+src/main/java/com/bs/kotha/application/notification/viewmodel/
+src/main/res/res/
